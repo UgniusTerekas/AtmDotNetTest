@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtmProject", "ClassLibrary1\AtmProject.csproj", "{4AD42AA2-4491-4D57-9BA3-0568E0EB054F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtmTests", "ATM tests\AtmTests.csproj", "{652550E8-0312-40DF-9AC6-E4442842832D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmApi", "AtmApi\AtmApi.csproj", "{945CD289-B647-44B9-B823-A8CF2FCB4759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD42AA2-4491-4D57-9BA3-0568E0EB054F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD42AA2-4491-4D57-9BA3-0568E0EB054F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD42AA2-4491-4D57-9BA3-0568E0EB054F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD42AA2-4491-4D57-9BA3-0568E0EB054F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652550E8-0312-40DF-9AC6-E4442842832D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652550E8-0312-40DF-9AC6-E4442842832D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652550E8-0312-40DF-9AC6-E4442842832D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652550E8-0312-40DF-9AC6-E4442842832D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945CD289-B647-44B9-B823-A8CF2FCB4759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945CD289-B647-44B9-B823-A8CF2FCB4759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945CD289-B647-44B9-B823-A8CF2FCB4759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945CD289-B647-44B9-B823-A8CF2FCB4759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2916A058-CBE3-4918-BB7A-F089CF0FAA86}
+	EndGlobalSection
+EndGlobal
